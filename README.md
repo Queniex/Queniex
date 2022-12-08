@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Backend dev thingy**
+- 🌱 I’m currently learning **backend developer 'thingy'**
 
 - 📫 Feel free to ask me about anything -> **queniesalbiyah@gmail.com**
 
