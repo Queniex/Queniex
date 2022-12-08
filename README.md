@@ -8,7 +8,7 @@
 
 - 📫 Feel free to ask me about anything -> **queniesalbiyah@gmail.com**
 
-- 🐰 Fun fact **I like <span style="color:pink;">pink colour🏳️‍⚧️</span>**
+- 🐰 Fun fact : **I like <span style="color:pink;">pink colour🏳️‍⚧️</span>**
 
 <p align="left">Reach me out : </p>
 <p align="left"> <a href="https://twitter.com/queniesalbiyah" target="blank"><img src="https://img.shields.io/twitter/follow/queniesalbiyah?logo=twitter&style=for-the-badge" alt="queniesalbiyah" /></a> </p>
