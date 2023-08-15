@@ -45,4 +45,4 @@
 
 <hr>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=queniex&show_icons=true&theme=synthwave" alt="queniex" /></p>
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=queniex&show_icons=true&theme=synthwave" alt="queniex" /></p><>-->
