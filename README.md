@@ -13,10 +13,6 @@
 <p align="left">Reach me out : </p>
 <p align="left"> <a href="https://twitter.com/queniesalbiyah" target="blank"><img src="https://img.shields.io/twitter/follow/queniesalbiyah?logo=twitter&style=for-the-badge" alt="queniesalbiyah" /></a> </p>
 
-<p align="left">
-<a href="https://twitter.com/queniesalbiyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="queniesalbiyah" height="30" width="40" /></a>
-</p>
-
 <hr>
 <h3 align="left">Programming Tools That I Know:</h3>
 <p align="left"> 
