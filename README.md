@@ -14,22 +14,22 @@
 <p align="left"> <a href="https://twitter.com/queniesalbiyah" target="blank"><img src="https://img.shields.io/twitter/follow/queniesalbiyah?logo=twitter&style=for-the-badge" alt="queniesalbiyah" /></a> </p>
 
 <hr>
-<h3 align="center">Programming Tools That I Know:</h3>
-<p align="center">
+<h3 align="left">Programming Tools That I Know:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,php,mysql," />
   </a>
 </p>
   
-<h3 align="center">Framework That I Use:</h3>
-<p align="center">
+<h3 align="left">Framework That I Use:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,laravel,vue" />
   </a>
 </p>
 
-<h3 align="center">Other Tools That I Know:</h3>
-<p align="center">
+<h3 align="left">Other Tools That I Know:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,ps,vscode,visualstudio" />
   </a>
