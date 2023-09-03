@@ -30,8 +30,10 @@
 </p>
 
 <h3 align="left">Other Tools That I Know:</h3>
-<p align="left"> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,ps,vscode,visualstudio" />
+  </a>
 </p>
 
 <hr>
