@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **backend developer 'thingy'**
 
-- 📫 Feel free to ask me about anything -> **queniesalbiyah@gmail.com**
+- 📫 Feel free to ask me about anything : **queniesalbiyah@gmail.com**
 
 - 🐰 Fun fact : **I like <span style="color:pink;">pink colour🏳️‍⚧️</span>**
 
@@ -21,7 +21,7 @@
   </a>
 </p>
   
-<h3 align="left">Framework That I Use:</h3>
+<h3 align="left">Framework/Library That I Use:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,laravel,vue" />
